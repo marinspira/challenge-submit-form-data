@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form,
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.form input {
+  margin-bottom: 10px;
+}
